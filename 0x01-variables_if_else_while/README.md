@@ -1,1 +1,1 @@
-If else while
+print alphabet
